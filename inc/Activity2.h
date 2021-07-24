@@ -10,7 +10,7 @@ void Init_ADC();
  * @param ch
  * @return uint16_t
  */
-_uint16_t ReadADC(uint8_t ch);
+uint16_t ReadADC(uint8_t ch);
 
 /**
  * @brief A function to setup timer1 with channel A for pulse width modulation with wave generation mode of 10 bits fast PWM and prescaling of 64.
