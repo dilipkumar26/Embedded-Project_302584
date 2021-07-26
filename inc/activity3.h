@@ -1,14 +1,3 @@
-/**
- * @file activity3.h
- * @author 260842 - K.Nagasowmika
- * @brief
- * @version 0.1
- * @date 2021-04-28
- *
- * @copyright Copyright (c) 2021
- *
- */
-
 #ifndef ACTIVITY3_H_INCLUDED
 #define ACTIVITY3_H_INCLUDED
 
