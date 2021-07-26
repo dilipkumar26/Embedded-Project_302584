@@ -16,16 +16,15 @@
 # Activity_4
 
 ### On Condition
-![activity4ON](https://github.com/Sowmika26/Embedded_project_260842/blob/main/simulation/act4.1.png)
+![activity4ON](simulation/Activity-4_LED%20ON.png)
 
 ### Off Condition
 
 ![activity4OFF](simulation/Activity-4_LED%20OFF.png)
 
-[![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)
+#### CI and Code Quality
 
+|Cppcheck|Codacy|Code Inspector|
+|:--:|:--:|:--:|
+|[![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2586fa25d3894d31bd0ca49c16181e57)](https://www.codacy.com/gh/dilipkumar26/Embedded-Project_302584/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dilipkumar26/Embedded-Project_302584&amp;utm_campaign=Badge_Grade)|![Code Inspector](https://www.code-inspector.com/project/25554/score/svg)|
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2586fa25d3894d31bd0ca49c16181e57)](https://www.codacy.com/gh/dilipkumar26/Embedded-Project_302584/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dilipkumar26/Embedded-Project_302584&amp;utm_campaign=Badge_Grade)
-
-
-![Codacy Inspector](https://www.code-inspector.com/project/25554/score/svg)
