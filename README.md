@@ -11,7 +11,7 @@
  ![ADC](simulation/Activity-2_ADC.png)
  
  # Activity_3
-(https://github.com/Sowmika26/Embedded_project_260842/blob/main/simulation/PWM_95%25_Dutycycle.png)
+(simulation/Activity-3_PWM.png)
 
 [![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)
 
