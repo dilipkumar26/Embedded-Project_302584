@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-#include "Activity1.h"
+#include "activity1.h"
 void Activity1(){
 
     SET_LED;    //set led as output port
