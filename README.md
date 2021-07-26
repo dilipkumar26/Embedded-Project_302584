@@ -20,7 +20,7 @@
 
 ### Off Condition
 
-![activity4OFF](https://github.com/Sowmika26/Embedded_project_260842/blob/main/simulation/act4.png)
+![activity4OFF](simulation/Activity-4_LED%20OFF.png)
 
 [![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)
 
