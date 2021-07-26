@@ -1,14 +1,3 @@
-/**
- * @file main.c
- * @author 260842 - K.Nagasowmika
- * @brief
- * @version 0.1
- * @date 2021-04-28
- *
- * @copyright Copyright (c) 2021
- *
- */
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include "activity1.h"
