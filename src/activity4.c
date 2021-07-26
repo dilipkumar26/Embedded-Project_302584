@@ -1,14 +1,3 @@
-/**
- * @file activity4.c
- * @author 260842 - K.Nagasowmika
- * @brief
- * @version 0.1
- * @date 2021-04-29
- *
- * @copyright Copyright (c) 2021
- *
- */
-
 #include "activity4.h"
 #include "activity1.h"
 #include <avr/interrupt.h>
@@ -39,12 +28,6 @@ return UDR0;
 
 }
 
-
-/**
- * @brief  Function to write characters to send it to other port of UART
- *
- * 
- */
 void UARTwritecharacter(char data){
 
 while(UART_DATA_NOT_WRITTEN){
