@@ -8,7 +8,7 @@
 |![ON](simulation/Activity-1_LED%20ON.PNG)|![OFF](simulation/Activity-1_LED%20OFF.PNG)|
 
 # Activity_2
- ![ADC](https://github.com/Sowmika26/Embedded_project_260842/blob/main/simulation/ADC.png)
+ ![ADC](simulation/Activity-2_ADC.png)
 
 [![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)
 
