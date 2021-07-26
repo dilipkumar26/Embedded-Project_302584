@@ -5,7 +5,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/Activity-1_LED_ON.png)|![OFF](simulation/Activity-1_LED OFF.PNG)|
+|![ON](simulation/Activity-1_LED_ON.png)|![OFF](https://github.com/dilipkumar26/Embedded-Project_302584/blob/a1045ad09e92056a8f479af9507c2fc24d9c5bba/simulation/Activity-1_LED%20ON.PNG)|
 
 [![Cppcheck](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/dilipkumar26/Embedded-Project_302584/actions/workflows/CodeQuality.yml)
 
