@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__r_e_a_d_m_e" xml:lang="en-US">
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md1">
+<title>Activity_1</title>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md2">
+<title>In Action</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="2" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry align='center'>
+<para>ON   </para>
+</entry><entry align='center'>
+<para>OFF    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry align='center'>
+<para>   </para>
+</entry><entry align='center'>
+<para>   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md3">
+<title>Activity_2</title>
+
+<para></para>
+</section>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md4">
+<title>Activity_3</title>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md5">
+<title>DutyCycle</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="2" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry align='center'>
+<para>PWM_20%   </para>
+</entry><entry align='center'>
+<para>PWM_40%    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry align='center'>
+<para>   </para>
+</entry><entry align='center'>
+<para>    </para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry align='center'>
+<para>PWM_70%   </para>
+</entry><entry align='center'>
+<para>PWM_95%    </para>
+</entry></row>
+      <row  class='markdownTableRowOdd'>
+<entry align='center'>
+<para></para>
+</entry><entry align='center'>
+<para></para>
+</entry></row>
+      <row  class='markdownTableRowEven'>
+<entry align='center'>
+<para>   </para>
+</entry><entry align='center'>
+<para>   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+<section xml:id="_md__r_e_a_d_m_e_1autotoc_md6">
+<title>CI and Code Quality</title>
+
+<para><informaltable frame="all">
+    <tgroup cols="3" align="left" colsep="1" rowsep="1">
+      <colspec colname='c1'/>
+      <colspec colname='c2'/>
+      <colspec colname='c3'/>
+<thead>
+      <row  class='markdownTableHead'>
+<entry align='center'>
+<para>Build   </para>
+</entry><entry align='center'>
+<para>Cppcheck   </para>
+</entry><entry align='center'>
+<para>Codacy    </para>
+</entry></row>
+</thead><tbody>
+      <row  class='markdownTableRowOdd'>
+<entry align='center'>
+<para><link xlink:href="https://github.com/Sowmika26/Embedded_project_260842/actions/workflows/compile.yml"></link>   </para>
+</entry><entry align='center'>
+<para><link xlink:href="https://github.com/Sowmika26/Embedded_project_260842/actions/workflows/CodeQuality.yml"></link>   </para>
+</entry><entry align='center'>
+<para><link xlink:href="https://www.codacy.com/gh/Sowmika26/Embedded_project_260842/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sowmika26/Embedded_project_260842&amp;utm_campaign=Badge_Grade"></link>   </para>
+</entry></row>
+    </tbody>
+    </tgroup>
+</informaltable>
+</para>
+</section>
+</section>
+</section>
+</section>
