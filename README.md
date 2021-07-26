@@ -15,12 +15,10 @@
 
 # Activity_4
 
-### On Condition
-![activity4ON](simulation/Activity-4_LED%20ON.png)
+|ON|OFF|
+|:--:|:--:|
+|![ON](simulation/Activity-4_LED%20ON.png)|![OFF](simulation/Activity-4_LED%20OFF.png)|
 
-### Off Condition
-
-![activity4OFF](simulation/Activity-4_LED%20OFF.png)
 
 
 #### CI and Code Quality
